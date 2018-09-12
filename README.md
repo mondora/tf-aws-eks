@@ -14,7 +14,7 @@ export AWS_DEFAULT_REGION="<us-west-2 | us-east-1 | eu-west-1>"
 ```bash
 terraform init
 ```
-Configure variables
+Then onfigure Terraform's variables
 
 # Run Terraform
 ```bash
