@@ -10,7 +10,7 @@ export AWS_SECRET_ACCESS_KEY="asecretkey"
 export AWS_DEFAULT_REGION="<us-west-2 | us-east-1 | eu-west-1>"
 ```
 
-# Inizialise Terraform
+# Initialize Terraform
 ```bash
 terraform init
 ```
